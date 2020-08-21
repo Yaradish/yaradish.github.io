@@ -1,30 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://yaradish.github.io/about/</loc>
-    <lastmod>2020-08-18T18:47:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaradish.github.io/post/%E5%86%99%E7%BB%99%E5%9B%BD%E6%BC%AB%E7%9A%84%E4%B8%80%E5%B0%81%E6%83%85%E4%B9%A6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaradish.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaradish.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaradish.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yaradish.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/fr/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/pl/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/pt/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/de/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/es/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/zh-cn/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/zh-tw/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/ja/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://yaradish.github.io/nl/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
